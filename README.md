@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Lakshay Singh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  Hi, I'm Lakshay Singh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
 <p align="center">
@@ -18,6 +18,16 @@ Hi, I'm Lakshay Singh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7
 ### 🏆 About Me
 
 I am a creative 🎡, punctual 👩‍🎓, dedicated 🎯, and goal-oriented individual 👩‍💻 with strong ethics 🙇‍♀️ and a high energy level 🤹‍♀️. I have excellent communication skills 👐, strong organizational abilities 👮‍♀️, and meticulous attention to detail 🕵️‍♀️.
+
+<!-- Example Image to Illustrate Creativity -->
+<p align="center">
+  <img src="https://via.placeholder.com/200x150/4682B4/FFFFFF?text=Creative+Project" alt="Example Creative Project" width="200">
+</p>
+
+<!-- Example GIF to Illustrate Dedication (Replace with a fun, relevant GIF) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/jRny0mxHnL7ew/giphy.gif" alt="Dedicated Coder" width="200">
+</p>
 
 ---
 
@@ -69,11 +79,49 @@ I am a creative 🎡, punctual 👩‍🎓, dedicated 🎯, and goal-oriented in
 
 ---
 
+## 🚀 Featured Projects
+
+### Project 1:  E-commerce Website
+
+[Link to Repo](https://github.com/MrStark65/ecommerce-website) | [Live Demo](https://ecommerce-website-example.com)
+
+A fully functional e-commerce website with user authentication, product catalog, shopping cart, and payment gateway integration. Built with React, Node.js, Express, and MongoDB.
+
+<p align="center">
+  <img src="https://via.placeholder.com/400x300/87CEEB/FFFFFF?text=E-commerce+Website+Screenshot" alt="E-commerce Website Screenshot" width="400">
+</p>
+
+### Project 2:  Machine Learning Image Classifier
+
+[Link to Repo](https://github.com/MrStark65/ml-image-classifier)
+
+A machine learning model that classifies images of different animals. Implemented using Python, TensorFlow, and Keras.
+
+<p align="center">
+  <img src="https://via.placeholder.com/400x300/90EE90/000000?text=ML+Image+Classifier+Screenshot" alt="ML Image Classifier Screenshot" width="400">
+</p>
+
+### Project 3:  Mobile App - Task Manager
+
+[Link to Repo](https://github.com/MrStark65/mobile-task-manager)
+
+A cross-platform mobile app for managing tasks and to-do lists. Built with React Native.
+
+<p align="center">
+  <img src="https://via.placeholder.com/200x300/FFA07A/FFFFFF?text=Mobile+App+Screenshot" alt="Mobile App Screenshot" width="200">
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashitanamdeo&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashitanamdeo&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashitanamdeo&theme=radical" alt="GitHub Readme Activity Graph" />
 </p>
 
 ---
@@ -85,3 +133,13 @@ I am a creative 🎡, punctual 👩‍🎓, dedicated 🎯, and goal-oriented in
   <a href="https://github.com/MrStark65"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
   <a href="mailto:Lakshaysing86.5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
 </p>
+
+---
+
+## 📺 Project Demo:  AI-Powered Object Detection
+
+[![AI Object Detection Demo](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID)
+
+This project uses a YOLOv5 model to detect objects in real-time video. Click the thumbnail above to watch a demo! The code is available on [GitHub](https://github.com/MrStark65/ai-object-detection).
+
+---
