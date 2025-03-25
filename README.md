@@ -18,12 +18,12 @@
 
 <!-- Spider-Man Header GIF -->
 <div align="center">
-  <img src="https://i.gifer.com/origin/47/477f15493935816314a9e83856c13792.gif" width="800" alt="Spider-Man Swinging" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" />
+  <img src="https://media.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif?cid=790b7611kririxj995hchgd9k6rutfiyyxush5w5y4rdg1uk&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" height="200" alt="Spider-Man Swinging" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" />
 </div>
 
 <!-- Spider-Sense Image -->
 <div align="center">
-  <img src="https://media.tenor.com/images/5556b341c3329e36a1e9f9538c06860d/tenor.gif" width="200" alt="Spider-Sense" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWlhOGFraTdhNjRoa215eTRqd2F1cGQ1eGlwNmZ0dXAyYnoydzl6ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/clspXK4twFiGjTwxOZ/giphy.gif" width="400" alt="Spider-Sense" />
 </div>
 
 ---
@@ -35,8 +35,8 @@
 </p>
 
 <!-- Spider-Man Coding -->
-<div align="center">
-  <img src="https://media.tenor.com/images/345493414e011800e46f462024607f7c/tenor.gif" width="200" alt="Spider-Man Coding" />
+<div align="right">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611rai0eg47iqoywijeejvu88slluajwq6la7v9skmn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" alt="Spider-Man Coding" />
 </div>
 
 <details>
