@@ -1,6 +1,6 @@
 <!-- Spider-Man Header GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/Yr0WpfGegdgcdqZXcL/giphy.gif?cid=790b7611ad4inzx7axw4f414178gheoqr3gcalkh37cra0ft&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="2800"height ="300" alt="Spider-Man Swinging" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" />
+  <img src="https://media.giphy.com/media/MYOFezpiSfGpUEygud/giphy.gif?cid=ecf05e47usn4wvgz7l1l9715i2tyet2hpny4z5v3m40u2frm&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" />
 </div>
 
 <h1 align="center" style="font-family: 'Bangers', cursive; color: #E62429; text-shadow: 2px 2px 4px #000000;">
@@ -21,10 +21,7 @@
   <img src="https://media.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif?cid=790b7611kririxj995hchgd9k6rutfiyyxush5w5y4rdg1uk&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" height="200" alt="Spider-Man Swinging" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" />
 </div>
 
-<!-- Spider-Sense Image -->
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWlhOGFraTdhNjRoa215eTRqd2F1cGQ1eGlwNmZ0dXAyYnoydzl6ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/clspXK4twFiGjTwxOZ/giphy.gif" width="400" alt="Spider-Sense" />
-</div>
+
 
 ---
 
@@ -35,7 +32,7 @@
 </p>
 
 <!-- Spider-Man Coding -->
-<div align="right">
+<div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611rai0eg47iqoywijeejvu88slluajwq6la7v9skmn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" alt="Spider-Man Coding" />
 </div>
 
@@ -46,32 +43,32 @@
   <ul style="font-family: 'Roboto', sans-serif; color: #E62429; list-style-type: disc; margin-left: 20px;">
     <li>🧪 Honing my AI/ML skills, ready to take on any supervillain!
       <div style="display: inline-block; margin-left: 10px;">
-        <img src="https://media.tenor.com/images/8865488c347546289913140735a4125e/tenor.gif" width="30" alt="Spider-Man Lab" />
+        <img src="https://media.giphy.com/media/iIFS20pNoCg1EEVodC/giphy.gif?cid=790b7611c5wr1fc7kkasi1msp5wco5fjil8hnlfxxkfxsm0u&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30" alt="Spider-Man Lab" />
       </div>
     </li>
     <li>🏆 Participating in Hackathons, teaming up to create heroic projects!
       <div style="display: inline-block; margin-left: 10px;">
-        <img src="https://media.tenor.com/images/b58338139c3153c42342442370235613/tenor.gif" width="30" alt="Spider-Man Team" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzMwcTA0dmdnOWN0eXBvOG4xc205MTV2eWlrOXV2NHY3N203MGs2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13kajTax0GCg0g/giphy.gif" width="30" alt="Spider-Man Team" />
       </div>
     </li>
     <li>💻 My web-slinging arsenal includes Python, JavaScript, C++, and more!
       <div style="display: inline-block; margin-left: 10px;">
-        <img src="https://media.tenor.com/images/6488a936497216090169676f89ca6668/tenor.gif" width="30" alt="Spider-Man Tech" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2lpbXk0bmptMmZzaWpnbXE0NmgwMTBtaHUzY3B1ZHJiaGNpcGIxYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="30" alt="Spider-Man Tech" />
       </div>
     </li>
     <li>🌐 Building a better web, one project at a time!
       <div style="display: inline-block; margin-left: 10px;">
-        <img src="https://media.tenor.com/images/6f078c599880434a204b83275573f15c/tenor.gif" width="30" alt="Spider-Man Web" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRzenRybzI5cmhzaG5ndDE2bjMydndzaDlpdnl6em0yeXRzZmc4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qt73FYHjuXqAj241m8/giphy.gif" width="30" alt="Spider-Man Web" />
       </div>
     </li>
     <li>🎨 Designing interfaces with a spider-sense for UI/UX!
       <div style="display: inline-block; margin-left: 10px;">
-        <img src="https://media.tenor.com/images/8e98761c4883e4d02887760c9927157d/tenor.gif" width="30" alt="Spider-Man Design" />
+        <img src="https://media.giphy.com/media/lZfU9MnEJ4di0/giphy.gif?cid=790b7611o64dyozcgybi6dupvpn83hrk56p7xvh966gsoc29&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30" alt="Spider-Man Design" />
       </div>
     </li>
     <li>🤖 Training neural networks to fight crime with AI!
       <div style="display: inline-block; margin-left: 10px;">
-        <img src="https://media.tenor.com/images/9710140486632086a501892173824139/tenor.gif" width="30" alt="Spider-Man AI" />
+        <img src="[https://media.tenor.com/images/9710140486632086a501892173824139/tenor.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhxMzZqM3M4b2ppbTF1YTg4b2NubmJhNmlkdW4xMzBucW14dXpuaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0lGd2OXXHe4tFhb7Wh/giphy.gif)" width="30" alt="Spider-Man AI" />
       </div>
     </li>
   </ul>
@@ -79,7 +76,7 @@
 
 <!-- Spider-Man Thinking -->
 <div align="center">
-  <img src="https://media.tenor.com/images/809c4c98586545484350986667926331/tenor.gif" width="200" alt="Spider-Man Thinking" />
+  <img src="https://media.giphy.com/media/YWLDUhxMbpPfY831Fn/giphy.gif?cid=790b76117d2rdhevdl9m7huoduf7jecr0eq4huzzsau9je8j&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200" alt="Spider-Man Thinking" />
 </div>
 
 ---
