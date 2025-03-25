@@ -18,7 +18,7 @@
 
 <!-- Spider-Man Header GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif?cid=790b7611kririxj995hchgd9k6rutfiyyxush5w5y4rdg1uk&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" height="200" alt="Spider-Man Swinging" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3R5cmx3bGh4NjI0eXQ3d254cThpNzFlZXVteXl6dzQyandsZXFrcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/vKhKsyEFVK4IuEKzWY/giphy.gif" width="400" " alt="Spider-Man Swinging" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" />
 </div>
 
 
@@ -33,7 +33,7 @@
 
 <!-- Spider-Man Coding -->
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611rai0eg47iqoywijeejvu88slluajwq6la7v9skmn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" alt="Spider-Man Coding" />
+  <img src="https://media.giphy.com/media/jOYox0MMT5umMPcElV/giphy.gif?cid=790b7611gtyrlwlhx624yt7wnxq8i71eeumyyzw42jwleqkq&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200" alt="Spider-Man Coding" />
 </div>
 
 <details>
@@ -43,7 +43,7 @@
   <ul style="font-family: 'Roboto', sans-serif; color: #E62429; list-style-type: disc; margin-left: 20px;">
     <li>🧪 Honing my AI/ML skills, ready to take on any supervillain!
       <div style="display: inline-block; margin-left: 10px;">
-        <img src="https://media.giphy.com/media/iIFS20pNoCg1EEVodC/giphy.gif?cid=790b7611c5wr1fc7kkasi1msp5wco5fjil8hnlfxxkfxsm0u&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30" alt="Spider-Man Lab" />
+        <img src="https://media.giphy.com/media/7EMuTfl61WDzFwar6G/giphy.gif?cid=790b76118ntf79n0bgubg85j24a11ss843ugvr3ox86bnpx4&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30" alt="Spider-Man Lab" />
       </div>
     </li>
     <li>🏆 Participating in Hackathons, teaming up to create heroic projects!
@@ -76,7 +76,7 @@
 
 <!-- Spider-Man Thinking -->
 <div align="center">
-  <img src="https://media.giphy.com/media/YWLDUhxMbpPfY831Fn/giphy.gif?cid=790b76117d2rdhevdl9m7huoduf7jecr0eq4huzzsau9je8j&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200" alt="Spider-Man Thinking" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY1dGhobzAyMjVlYmR2cGxkamZpdmduMXE2NmYxb2ZwZ3E2NHl2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WOOFsm13stf44Lan8c/giphy.gif" width="200" alt="Spider-Man Thinking" />
 </div>
 
 ---
@@ -85,13 +85,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,html,css,figma,flask,django,mongodb,mysql,tensorflow,opencv,raspberrypi" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java,html,css,scss,figma,flask,django,mongodb,mysql,postgres,tensorflow,pytorch,opencv,raspberrypi,firebase,aws,gcp,azure,vscode,react,nextjs,nodejs,express,git,github,bootstrap,tailwind,androidstudio,kotlin,linux,docker,kubernetes,bash,postman,redux,threejs" alt="Tech Stack" />
   </a>
 </p>
 
 <!-- Spider-Man Web GIF -->
 <div align="center">
-  <img src="https://media.tenor.com/images/4296254870907474236b168408010a18/tenor.gif" width="200" alt="Spider-Man Web" />
+  <img src="https://media.giphy.com/media/4cyhX2dXNJaCubFydv/giphy.gif?cid=790b7611ibrg37sf1w7qwgue87s19o04js9dtabp5y54uqjp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200" alt="Spider-Man Web" />
 </div>
 
 ---
