@@ -2,7 +2,13 @@
 <h3 align="center">Aspiring AI/ML Engineer | Full Stack Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Passionate+about+AI%2FML+and+Development;Hackathon+Participant+%7C+Open+Source+Contributor;Full+Stack+Developer+%7C+Tech+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=600&lines=Passionate+about+AI%2FML+and+Development;Hackathon+Participant+%7C+Open+Source+Contributor;Full+Stack+Developer+%7C+Tech+Explorer;Building+Smart+Solutions+for+the+Future" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="50" height="50">
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="50" height="50">
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="50" height="50">
 </p>
 
 ---
@@ -59,12 +65,17 @@
 
 ---
 
-### 🎬 Contribution Snake Animation  
-![GitHub Snake Animation](https://github.com/MrStark65/MrStark65/blob/output/github-contribution-grid-snake.svg)
+### 📺 Featured Video
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="Watch Now" width="500" />
+  </a>
+</p>
 
 ---
 
-### 🎭 Fun Projects  
+### 🎮 Fun Projects  
 🚀 **Portfolio Website**: A space-themed animated portfolio 🌌  
 🎨 **TechFest Website**: Multi-page site with Events, Workshops, and Competitions 🎭  
 💡 **Crowdfunding Platform**: A full-stack donation-based website 💰  
@@ -76,32 +87,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lakshay%20Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lakshay-singh/)
 [![GitHub](https://img.shields.io/badge/GitHub-MrStark65-black?style=for-the-badge&logo=github)](https://github.com/MrStark65)
 [![Email](https://img.shields.io/badge/Email-lakshaysingh@example.com-red?style=for-the-badge&logo=gmail)](mailto:lakshaysingh@example.com)
-
----
-
-### 🏆 Hackathons & Achievements  
-🏅 **Google Hackathon Finalist**  
-🏅 **Adobe GenSolve Hackathon Participant**  
-🏅 **NASA Space Apps Challenge Beginner**  
-🏅 **Canva AI & Integrations Hackathon**  
-🏅 **Bitcoin Games Hackathon (Sidechain & Lightning Network Track)**  
-🏅 **Intern at CodSoft (UI/UX)**  
-🏅 **Intern at Main Flow Services (Data Science)**  
-
----
-
-### 🔥 Fun Facts  
-🎮 **Gaming Enthusiast**: Love playing strategy and open-world games  
-📺 **Sci-Fi & Tech Nerd**: Huge fan of AI-related movies  
-🍕 **Foodie**: Always up for a pizza night!  
-
----
-
-### 📌 To-Do List  
-✅ **Improve Android Development Skills**  
-✅ **Learn React for Frontend**  
-✅ **Build a Full AI Chatbot with NLP**  
-✅ **Crack a High-Paying AI/ML Job**  
 
 ---
 
