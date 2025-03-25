@@ -198,13 +198,13 @@
 ### 🌸 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lakshay-singh/">
+  <a href="https://www.linkedin.com/in/lakshay-singh-2a7755276/?trk=opento_sprofile_topcard">
     <img src="https://img.shields.io/badge/LinkedIn-Lakshay%20Singh-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/MrStark65">
     <img src="https://img.shields.io/badge/GitHub-MrStark65-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="mailto:lakshaysingh@example.com">
+  <a href="mailto:lakshaysingh86.5@example.com">
     <img src="https://img.shields.io/badge/Email-lakshaysingh@example.com-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
