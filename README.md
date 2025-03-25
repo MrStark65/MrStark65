@@ -81,7 +81,7 @@ I am a creative 🎡, punctual 👩‍🎓, dedicated 🎯, and goal-oriented in
 ## 💡 Let's Connect!
 
 <p>
-  <a href="https://www.linkedin.com/in/Lakshaysingh"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/lakshay-singh-2a7755276"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/MrStark65"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
   <a href="mailto:Lakshaysing86.5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
 </p>
