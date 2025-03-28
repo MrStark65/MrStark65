@@ -96,78 +96,6 @@
 
 ---
 
-### 💥 Featured Projects
-
-#### 🏥 Automated Patient Admission System
-
-<p style="font-family: 'Roboto', sans-serif; color: #E62429; font-size: 1.1em; text-shadow: 1px 1px 2px #000000;">
-  Streamlining patient admission with AI, faster than a speeding web-line!
-</p>
-
-<!-- Project Image and Spider-Man Saving GIF in a Row -->
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="YOUR_PROJECT_LINK" style="display: inline-block; position: relative;">
-    <img src="https://i.gifer.com/origin/3d/3d343c8b8b2799c371a6d302b393868e.gif" width="400" alt="Patient Admission System" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-    <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-family: 'Bangers', cursive; font-size: 1.2em; text-shadow: 2px 2px 4px #000000; opacity: 0; transition: opacity 0.3s ease; background-color: rgba(0, 0, 0, 0.5); padding: 5px 10px; border-radius: 5px;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0">Swing Over</span>
-  </a>
-  <div style="margin-left: 20px;">
-    <img src="https://media.tenor.com/images/95e681159479771896734741425d5269/tenor.gif" width="200" alt="Spider-Man Saving" />
-  </div>
-</div>
-
-#### 🚀 Smart Queue Management System (SQMS)
-
-<p style="font-family: 'Roboto', sans-serif; color: #E62429; font-size: 1.1em; text-shadow: 1px 1px 2px #000000;">
-  Managing queues with the precision of a well-aimed web-shooter!
-</p>
-
-<!-- Project Image and Spider-Man Queue GIF in a Row -->
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="YOUR_PROJECT_LINK" style="display: inline-block; position: relative;">
-    <img src="https://i.pinimg.com/originals/9d/88/2d/9d882d0e7899511423f6727884939a87.gif" width="400" alt="SQMS UI" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-    <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-family: 'Bangers', cursive; font-size: 1.2em; text-shadow: 2px 2px 4px #000000; opacity: 0; transition: opacity 0.3s ease; background-color: rgba(0, 0, 0, 0.5); padding: 5px 10px; border-radius: 5px;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0">Explore SQMS</span>
-  </a>
-  <div style="margin-left: 20px;">
-    <img src="https://media.tenor.com/images/b324529f939125c4491438711197998f/tenor.gif" width="200" alt="Spider-Man Queue" />
-  </div>
-</div>
-
-#### 🤖 AI-Based Legal Chatbot
-
-<p style="font-family: 'Roboto', sans-serif; color: #E62429; font-size: 1.1em; text-shadow: 1px 1px 2px #000000;">
-  Providing legal advice with the wisdom of a seasoned superhero lawyer!
-</p>
-
-<!-- Project Image and Spider-Man Lawyer GIF in a Row -->
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=2LhoLQzgPjI" style="display: inline-block; position: relative;">
-    <img src="https://i.ytimg.com/vi/2LhoLQzgPjI/hqdefault.jpg" width="400" alt="Legal Chatbot Demo" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-    <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-family: 'Bangers', cursive; font-size: 1.2em; text-shadow: 2px 2px 4px #000000; opacity: 0; transition: opacity 0.3s ease; background-color: rgba(0, 0, 0, 0.5); padding: 5px 10px; border-radius: 5px;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0">Check it Out</span>
-  </a>
-  <div style="margin-left: 20px;">
-    <img src="https://media.tenor.com/images/3281593172d068f5169864448a5e59e4/tenor.gif" width="200" alt="Spider-Man Lawyer" />
-  </div>
-</div>
-
-#### 💧 Water Quality Monitoring System using IoT
-
-<p style="font-family: 'Roboto', sans-serif; color: #E62429; font-size: 1.1em; text-shadow: 1px 1px 2px #000000;">
-  Monitoring water quality with the dedication of an environmental protector!
-</p>
-
-<!-- Project Image and Spider-Man Water GIF in a Row -->
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="YOUR_PROJECT_LINK" style="display: inline-block; position: relative;">
-    <img src="https://i.pinimg.com/originals/76/b1/46/76b14682449985e7109339e4905d1662.gif" width="400" alt="Water Quality IoT" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-    <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-family: 'Bangers', cursive; font-size: 1.2em; text-shadow: 2px 2px 4px #000000; opacity: 0; transition: opacity 0.3s ease; background-color: rgba(0, 0, 0, 0.5); padding: 5px 10px; border-radius: 5px;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0">Dive In</span>
-  </a>
-  <div style="margin-left: 20px;">
-    <img src="https://media.tenor.com/images/6601b69413459229f3d49154216151a3/tenor.gif" width="200" alt="Spider-Man Water" />
-  </div>
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -178,20 +106,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrStark65&theme=dark" alt="GitHub Streak Stats" />
 </p>
 
-<!-- Spider-Man Stats -->
-<div align="center">
-  <img src="https://media.tenor.com/images/83110058f255374333758126a0d7171a/tenor.gif" width="200" alt="Spider-Man Stats" />
-</div>
-
 ---
-
-### 🐍 Contribution Snake Animation
-![GitHub Snake Animation](https://github.com/MrStark65/MrStark65/blob/output/github-contribution-grid-snake.svg)
-
-<!-- Spider-Man Snake -->
-<div align="center">
-  <img src="https://media.tenor.com/images/f74154a5547654b154d1639440c344b8/tenor.gif" width="200" alt="Spider-Man Snake" />
-</div>
 
 ---
 
