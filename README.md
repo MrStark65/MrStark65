@@ -1,115 +1,32 @@
-<!-- HERO SECTION -->
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="260" alt="Iron Man Helmet" />
-</div>
+<!-- ========================================================= --> <!-- ================== HERO TOP SECTION ================== --> <!-- ========================================================= --> <table width="100%"> <tr>
+<!-- LEFT SIDE : TEXT -->
+<td width="60%" align="left" valign="middle">
 
-<h1 align="center">
-  ⚡ Hey, I'm <span style="color:#f5c518;">Lakshay Singh</span>
-</h1>
+  <h1 style="font-family: 'Poppins', sans-serif; font-weight:900; font-size: 40px;">
+    🌈 Welcome to My Profile! 🌈
+  </h1>
 
-<h3 align="center">
-  Aspiring AI/ML Engineer • Full Stack Developer • Iron Man Fanboy in Production
-</h3>
+  <br/>
 
-<p align="center">
-  <em>"If you're nothing without your code, then you shouldn't have it." – (probably) Tony Stark</em>
-</p>
+  <h2 style="font-family: 'Poppins', sans-serif; font-weight:700; font-size: 30px;">
+    👋 I'm <span style="color:#4FC3F7;">Lakshay Singh</span>
+  </h2>
 
----
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&pause=1000&color=FFFFFF&vCenter=true&width=450&lines=AI%2FML+Engineer;Full+Stack+Developer;Android+Developer;Creative+Tech+Builder"
+    alt="Typing Animation"
+  />
 
-## 🧬 Stark ID
+</td>
 
-- 🧑‍💻 **Name:** Lakshay Singh (`MrStark65`)
-- 🎓 **Student:** BCA (AI/ML), Galgotias University  
-- 🛰 **Domains:** AI/ML • Full Stack • Android • Hackathons  
-- 🧠 **Superpowers:** Turning caffeine + ideas into code & side projects  
-- 🎮 **Off-duty mode:** Gaming, sci-fi, superhero marathons & pizza
+<!-- RIGHT SIDE : FUNNY LADY GIF -->
+<td width="40%" align="center" valign="middle">
+  <img src="https://media.giphy.com/media/lv2Pwd5dgZ76U/giphy.gif" width="260" />
+</td>
+</tr> </table> <br> <hr> <!-- ========================================================= --> <!-- ====================== GOOGLE INTRO =================== --> <!-- ========================================================= --> <div align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBmbXEzMTN3eGZndzhxYm5ybms2eDB0cGJmYm5kd2drMThuMzUyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yN4A8EMHt4lmkC6kwq/giphy.gif" width="130" /> <h2><strong>Hello, I'm Lakshay Singh 👋</strong></h2> <b>AI/ML Engineer • Full Stack Developer • Android Developer</b> <br> 🔵 <i>Learning Never Stops.</i> </div> <hr> <!-- ========================================================= --> <!-- ========================= ABOUT ME ===================== --> <!-- ========================================================= --> <h2>🧠 About Me</h2> <table> <tr> <td width="60%" valign="top">
+I'm Lakshay, a passionate developer focused on:
 
----
+<ul> <li>🤖 Machine Learning</li> <li>🧬 Deep Learning</li> <li>📱 Android (CameraX + ML Kit)</li> <li>🕸 Full Stack (React, Node, Django)</li> <li>⚡ Real-time Systems (Kafka + WebSockets)</li> </ul>
+I love solving problems, building creative tech, and learning new things every day.
 
-## 🔭 Current Missions
-
-- 🚀 Building cool **AI/ML side projects** (recommendation, vision, NLP, etc.)
-- 🔐 Exploring **Android + Computer Vision** (FaceGate, scanners, etc.)
-- 🌐 Leveling up as a **Full Stack Dev** (React / JS / Django / Node)
-- 🎯 Preparing to crack a **high-paying AI/ML role**
-
----
-
-## 🛠 Tech Arc Reactor (My Arsenal)
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,html,css,scss,react,nextjs,nodejs,express,flask,django,bootstrap,tailwind,androidstudio,kotlin" /><br/>
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mongodb,mysql,postgres,firebase,raspberrypi,aws,gcp,azure,linux,docker,kubernetes,git,github,vscode,postman,threejs" />
-  </a>
-</p>
-
----
-
-## 🧪 Featured Projects (From the Stark Lab)
-
-> A few repos I actually show to humans 👇
-
-- 🎬 **[Netflix_Clone](https://github.com/MrStark65/Netflix_Clone)** – Frontend clone with movie cards & streaming-style UI.  
-- 😊 **[Face-Emotion-Detection](https://github.com/MrStark65/Face-Emotion-Detection)** – Detects human emotions from faces using ML & OpenCV.  
-- 🎥 **[movie_recommended_system](https://github.com/MrStark65/movie_recommended_system)** – Movie recommender using content-based filtering.  
-- 🧠 **[Main_Flow-Internship](https://github.com/MrStark65/Main_Flow-Internship)** – Collection of ML/DS tasks & experiments.  
-- 🌐 **[IEEE_2025_Website-design](https://github.com/MrStark65/IEEE_2025_Website-design)** – Event/website design with modern UI.  
-- 📅 **[daily-planner](https://github.com/MrStark65/daily-planner)** – Tiny productivity tool to organize your day.
-
-> _More in progress – hackathon repos & crazy ideas incoming…_
-
----
-
-## 📊 GitHub Power Levels
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=MrStark65&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrStark65&theme=radical" alt="GitHub Streak" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrStark65&layout=compact&theme=radical" alt="Top Languages" />
-
-</div>
-
----
-
-## 🎮 Fun Side of Stark
-
-- 🕹 **Gamer at heart** – Co-op, shooters, open-world, anything fun.
-- 📺 **Sci-Fi + Superhero nerd** – Marvel, tech, time travel, multiverse theory.
-- 🍕 **Foodie mode** – Pizza + late-night coding = perfect combo.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="220" alt="Iron Man Flying" />
-</div>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lakshay-singh-2a7755276/">
-    <img src="https://img.shields.io/badge/LinkedIn-Lakshay%20Singh-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/MrStark65">
-    <img src="https://img.shields.io/badge/GitHub-MrStark65-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:lakshaysingh86.5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lakshaysingh86.5@gmail.com-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-⭐ Thanks for visiting my profile.  
-<br/>
-🧯 <em>System status: Arc Reactor stable. More commits coming soon...</em>
-
-</div>
-
-<!-- From: https://github.com/MrStark65 -->
+</td> <td width="40%" align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWNiMXBnNTd1cmphbDZoZnkzaXc4NzhvbzlmcDZweGp1cXdheWh5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fZ91xzFtKWmoJSD4TK/giphy.gif" width="300" /> </td> </tr> </table> <hr> <!-- ========================================================= --> <!-- ======================== SKILLS ======================== --> <!-- ========================================================= --> <h2>🛠️ Skills Menu</h2> <h3>⭐ Skills With GIFs + Logos</h3> <table> <tr> <td align="center" width="33%"> <h3>🐍 Python</h3> <img src="https://media.giphy.com/media/ZuOMrNqKyYt218kKq6/giphy.gif" width="120" /> </td> <td align="center" width="33%"> <h3>💻 Web Development</h3> <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="120" /> </td> <td align="center" width="33%"> <h3>📱 Android Development</h3> <img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="120" /> </td> </tr> <tr> <td align="center"> <h3>🐧 Coding Penguin</h3> <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="120" /> </td> <td align="center"> <h3>🤖 Machine Learning</h3> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXo4dWFncXBsMHFmbHAxcGo0eWtrczlheDYzOGJocHhlMHVkc3MzbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zN2IXI0TEnalqdlCkZ/giphy.gif" width="120" /> </td> <td align="center"> <h3>🌸 Extra Fun</h3> <img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="120" /> </td> </tr> </table> <hr> <!-- ========================================================= --> <!-- ================== FEATURED PROJECTS ================= --> <!-- ========================================================= --> <h2>🚀 Featured Projects</h2> <table> <tr> <td width="60%" valign="top"> <ul> <li><b>🟦 FaceGate (Android CV)</b><br>Real-time face tracking using CameraX + ML Kit.</li><br> <li><b>⚡ Real-Time Chat System</b><br>Kafka + WebSockets + Django + Virus Scan + File Preview.</li><br> <li><b>🎬 Movie Recommendation System</b><br>ML-powered recommender.</li><br> <li><b>😊 Emotion Detection JS</b><br>Browser-based AI using face expressions.</li> </ul> </td> <td width="40%" align="center"> <img src="https://media.giphy.com/media/kG1xbICnT04oYo5Y8a/giphy.gif" width="240" /> </td> </tr> </table> <hr> <!-- ========================================================= --> <!-- ======================== THANK YOU ===================== --> <!-- ========================================================= --> <h2>🙏 Thank You</h2> <div align="center"> <img src="https://media.giphy.com/media/JRUtn0sCuAn0bzfc4C/giphy.gif" width="200" /> <h3>Thanks for visiting!</h3> <p>Stay creative & keep building 🌈</p> </div>
