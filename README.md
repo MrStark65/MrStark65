@@ -28,7 +28,7 @@
 <td width="40%" align="center" valign="middle">
   <img src="https://media.giphy.com/media/lv2Pwd5dgZ76U/giphy.gif" width="260" />
 </td>
-</tr> </table> <br> <hr> <!-- ========================================================= --> <!-- ====================== GOOGLE INTRO ====================== --> <!-- ========================================================= --> <div align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBmbXEzMTN3eGZndzhxYm5ybms2eDB0cGJmYm5kd2drMThuMzUyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yN4A8EMHt4lmkC6kwq/giphy.gif" width="130" /> <h2><strong>Hello, I'm Lakshay Singh 👋</strong></h2> <b>AI/ML Engineer • Full Stack Developer • Android Developer</b> <br> 🔵 <i>Learning Never Stops.</i> </div> <hr> <!-- ========================================================= --> <!-- ========================= ABOUT ME ======================= --> <!-- ========================================================= --> <h2>🧠 About Me</h2> <table> <tr>
+</tr> </table> <br> <hr> <!-- ========================================================= --> <!-- ================= MULTI-LANGUAGE INTRO =================== --> <!-- ========================================================= --> <div align="center"> <h1 style="font-family: 'Poppins', sans-serif; font-weight:900; color:#4FC3F7;"> 🌟 I am <b>Lakshay Singh</b> 🌟 </h1> <h2 style="font-family: 'Fira Code', monospace; font-weight:700; color:#FFD54F;"> console.log("नमस्ते, मैं लक्षय सिंह हूँ"); </h2> <h2 style="font-family: 'Cursive'; font-weight:700; color:#FF6EC7;"> Bonjour! Je m'appelle <b>Lakshay Singh</b> 💖 </h2> </div> <hr> <!-- ========================================================= --> <!-- ====================== GOOGLE INTRO ====================== --> <!-- ========================================================= --> <div align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBmbXEzMTN3eGZndzhxYm5ybms2eDB0cGJmYm5kd2drMThuMzUyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yN4A8EMHt4lmkC6kwq/giphy.gif" width="130" /> <h2><strong>Hello, I'm Lakshay Singh 👋</strong></h2> <b>AI/ML Engineer • Full Stack Developer • Android Developer</b> <br> 🔵 <i>Learning Never Stops.</i> </div> <hr> <!-- ========================================================= --> <!-- ========================= ABOUT ME ======================= --> <!-- ========================================================= --> <h2>🧠 About Me</h2> <table> <tr>
 <td width="60%" valign="top">
 
   I’m Lakshay — a developer who enjoys building complete solutions connecting  
@@ -54,6 +54,8 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWNiMXBnNTd1cmphbDZoZnkzaXc4NzhvbzlmcDZweGp1cXdheWh5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fZ91xzFtKWmoJSD4TK/giphy.gif" width="300" />
 </td>
 </tr> </table> <hr> <!-- ========================================================= --> <!-- ========================== SKILLS ======================== --> <!-- ========================================================= --> <h2>🛠️ Skills</h2> <table> <tr>
+php-template
+Copy code
 <td align="center" width="33%">
   <img src="https://skillicons.dev/icons?i=python" width="48" />
   <br><br>
@@ -77,9 +79,6 @@
   <br>
   <b>Android Development</b>
 </td>
-</tr> <tr>
-php-template
-Copy code
 <td align="center" width="33%">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" width="120" />
   <br><br>
@@ -104,8 +103,6 @@ Copy code
   <b>Tools & Extras</b>
 </td>
 </tr> </table> <hr> <!-- ========================================================= --> <!-- ===================== FEATURED PROJECTS ================== --> <!-- ========================================================= --> <h2>🚀 Featured Projects</h2> <table> <tr>
-php-template
-Copy code
 <td width="60%" valign="top">
 
   <ul>
