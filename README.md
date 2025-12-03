@@ -3,7 +3,7 @@
 <td width="60%" align="left" valign="middle">
 
   <h1 style="font-family: 'Poppins', sans-serif; font-weight:900; font-size: 40px;">
-    🌈 Welcome to My Profile! 🌈
+    Welcome to My Profile! 
   </h1>
 
   <br/>
