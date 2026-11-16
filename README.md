@@ -1,93 +1,210 @@
 <div align="center">
 
-<img src="assets/header.gif" width="760" alt="Lakshay Singh — animated illustrated developer banner" />
+<img src="assets/header.gif" width="760" alt="Lakshay Singh — animated introduction" />
 
-### Lakshay Singh
-**Backend Engineering · Systems Integration · Automation · Applied AI**
+# Lakshay Singh
 
-*Building reliable software. Learning in public.*
+### Backend Development · Systems Integration · Applied AI
 
-[![GitHub](https://img.shields.io/badge/GitHub-MrStark65-181717?style=for-the-badge&logo=github)](https://github.com/MrStark65)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lakshay-singh-2a7755276/)
-[![Public PRs](https://img.shields.io/badge/Open%20Source-Public%20PRs-805AD5?style=for-the-badge&logo=git)](https://github.com/pulls?q=is%3Apr+author%3AMrStark65)
+**Developer Apprentice at NEC India** · Building dependable software, APIs, and automation.
+
+[![GitHub](https://img.shields.io/badge/GitHub-MrStark65-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrStark65)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshay-singh-2a7755276/)
+[![Open Source](https://img.shields.io/badge/Open_Source-Public_PRs-3B82F6?style=for-the-badge&logo=git&logoColor=white)](https://github.com/pulls?q=is%3Apr+author%3AMrStark65)
 
 </div>
 
 ---
 
-## 👨‍💻 About
+## About me
 
-I develop **backend services, system integrations, Python automation, and AI-enabled applications**. I focus on reliability, operational visibility, fault handling, and maintainable code.
+I work on **backend systems, enterprise integrations, infrastructure automation, and AI-enabled applications**. My engineering interests are **reliable services, clear APIs, fault recovery, operational monitoring, and practical machine learning**.
 
-## 💼 Engineering experience
+- **Currently:** Developer Apprentice at **NEC India**, working on the Delhi Safe City Project
+- **Core strengths:** Python, FastAPI, SQL, C#/.NET, integrations, automation
+- **Exploring:** LLM applications, retrieval-augmented generation, open-source backend engineering
+- **Next milestone:** Meaningful open-source contributions and **GSoC 2027** preparation
 
-**NEC India · Developer Apprentice** — Delhi Safe City Project
+## Engineering experience
 
-| Workstream | Engineering work |
-|:--|:--|
-| **ERSS integration platform** | Designed and developed a separate integration platform with an IIS operations dashboard, Windows worker service, health monitoring, durable incident queuing, retries, idempotency, worker leadership, and active/standby failover design. |
-| **Genetec & third-party integrations** | Worked with Mission Control, WebSDK, CAD and integration testing, including development-stage connectivity verification. |
-| **Face Attendance System** | Designed and developed a **production-deployed** system with face check-in/out, liveness verification, centralized employee administration, offline synchronization, and attendance reporting. |
-| **Infrastructure automation** | Python tooling for network audits, configuration validation, switch status checks, reporting, and troubleshooting. |
+**NEC India | Developer Apprentice | Delhi Safe City Project**
 
-> **ERSS status:** Development dashboard, worker service, health endpoints, and worker leadership are operational. Live incident processing and final failover validation remain pending; this is not presented as a completed production rollout.
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<sub>Internal endpoints, server addresses, credentials, private architecture, and employee data are omitted.</sub>
+**Integration platform & backend services**
 
-## 🧰 Tech stack
+- Designed and developed a separate **ERSS integration platform**
+- Created an **IIS operations dashboard** and **Windows worker service**
+- Worked on **durable incident queuing, retries, idempotency, health checks, and diagnostics**
+- Implemented worker leadership and designed active/standby failover
+
+</td>
+<td valign="top" width="50%">
+
+**Enterprise integrations**
+
+- Worked with **Genetec Mission Control, WebSDK, CAD**, and related integration workflows
+- Built and tested connectivity and service-integration paths
+- Focused on monitoring, error handling, and operational visibility
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Face Attendance System**
+
+- Designed and developed a **production-deployed** application
+- Face-based check-in/out and liveness verification
+- Employee administration, shift/leave workflows, offline synchronization, and reporting
+
+</td>
+<td valign="top">
+
+**Infrastructure & camera automation**
+
+- Python-based **network/switch audits**, configuration checks, and structured Excel reporting
+- Device connectivity troubleshooting and validation
+- Browser-driven camera configuration automation using **Playwright**
+
+</td>
+</tr>
+</table>
+
+> **Project maturity:** The ERSS development dashboard, worker service, health endpoints and worker leadership are operational. Live incident processing and end-to-end failover validation remain pending; this is **not** described as a completed production rollout.
+
+<details>
+<summary><b>Visual: how I think about reliable integrations</b></summary>
+
+```mermaid
+flowchart LR
+    A["Incoming event"] --> B["Validate & normalize"]
+    B --> C["Durable processing"]
+    C --> D{"Outcome"}
+    D -->|Success| E["Record result"]
+    D -->|Transient error| F["Retry policy"]
+    F --> C
+    D -->|Terminal error| G["Diagnostics & alert"]
+    E --> H["Monitoring"]
+    G --> H
+```
+
+*Conceptual engineering pattern — not an internal system diagram.*
+
+</details>
+
+## Technical toolkit
 
 <div align="center">
 
 **Languages & backend**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="44" alt="Python" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="44" alt="C#" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" height="44" alt=".NET" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="44" alt="FastAPI" />
+<img src="https://skillicons.dev/icons?i=python,cs,dotnet,fastapi&theme=dark" alt="Python, C sharp, .NET, FastAPI" />
+
+`REST APIs` · `Pydantic` · `Uvicorn` · `Windows Services` · `SignalR`
 
 **Databases & data**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="44" alt="PostgreSQL" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="44" alt="SQL Server" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="44" alt="pandas" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="44" alt="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="Microsoft SQL Server" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="45" alt="pandas" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="45" alt="NumPy" />
 
-**Machine learning & AI**
+**Machine learning & LLM development**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="44" alt="PyTorch" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="44" alt="scikit-learn" /> &nbsp;
-<a href="https://huggingface.co"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge" height="28" alt="Hugging Face" /></a> &nbsp;
-<a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28" alt="LangChain" /></a>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="PyTorch and scikit-learn" />
 
-**Developer tools**
+`Hugging Face Transformers` · `OpenAI API` · `LangChain` · `LangGraph` · `LlamaIndex` · `Sentence Transformers`
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="44" alt="Git" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="44" alt="GitHub" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="44" alt="Linux" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="44" alt="PowerShell" />
+**Development & automation tools**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,powershell,vscode&theme=dark" alt="Git, GitHub, Linux, PowerShell, VS Code" />
 
-`REST APIs` · `Pydantic` · `Uvicorn` · `LangGraph` · `LlamaIndex` · `Sentence Transformers` · `OpenAI API`
+`Playwright` · `PowerShell` · `Excel Reporting` · `Integration Testing`
 
 </div>
 
-## 🚀 Featured repositories
+## Selected public repositories
 
-| Project | Focus |
-|:--|:--|
-| [📄 AI-Powered Invoice Extractor](https://github.com/MrStark65/AI-Powered-Invoice-Extractor) | PDF data extraction and structured processing |
-| [🧩 AI Minesweeper](https://github.com/MrStark65/ai-minesweeper) | Constraint reasoning and game logic |
-| [🎭 Face Emotion Detection](https://github.com/MrStark65/Face-Emotion-Detection) | Browser-based computer vision |
-| [🎬 Movie Recommendation System](https://github.com/MrStark65/movie_recommended_system) | Recommendation-system experiments |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🌱 Open source · GSoC 2027
+### [AI-Powered Invoice Extractor](https://github.com/MrStark65/AI-Powered-Invoice-Extractor)
+Document extraction and structured-data workflows.
 
-Exploring **[PyAirbyte](https://github.com/airbytehq/PyAirbyte)** and **[Meshery](https://github.com/meshery/meshery)**. I'm focused on backend issue investigation, tests, and learning from maintainers while preparing for **Google Summer of Code 2027**.
+`Python` `AI` `Document Processing`
 
-[**View public pull requests →**](https://github.com/pulls?q=is%3Apr+author%3AMrStark65)
+</td>
+<td width="50%" valign="top">
 
-<sub>Issue investigation is not presented as a merged contribution.</sub>
+### [AI Minesweeper](https://github.com/MrStark65/ai-minesweeper)
+Reasoning, constraint-solving and game logic.
+
+`Algorithms` `Problem Solving`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### [Face Emotion Detection](https://github.com/MrStark65/Face-Emotion-Detection)
+Computer vision and facial-expression recognition experiments.
+
+`Computer Vision` `ML`
+
+</td>
+<td valign="top">
+
+### [Movie Recommendation System](https://github.com/MrStark65/movie_recommended_system)
+Recommendations and data-driven prediction experiments.
+
+`Python` `Machine Learning`
+
+</td>
+</tr>
+</table>
+
+### Other engineering work
+
+`ERSS Operations Dashboard` · `Face Attendance System` · `Network VLAN Auditing` · `SNMP Configuration Automation` · `ANPR Camera Configuration Automation`
+
+*These include workplace projects; source code is not represented as publicly available.*
+
+## Open source · GSoC 2027
+
+Exploring the backend ecosystems of **[PyAirbyte](https://github.com/airbytehq/PyAirbyte)** and **[Meshery](https://github.com/meshery/meshery)** with an emphasis on reproducing bugs, understanding existing architecture, writing focused tests, and contributing maintainable fixes.
+
+[**See my public pull requests →**](https://github.com/pulls?q=is%3Apr+author%3AMrStark65)
+
+<sub>Exploration or issue investigation does not imply accepted or merged contributions.</sub>
+
+## GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrStark65&theme=github-compact&hide_border=true&area=true" width="95%" alt="GitHub contribution activity graph generated from public activity" />
+
+</div>
+
+<details>
+<summary><b>Engineering principles</b></summary>
+
+- **Reliability first:** define failure modes, retries, and recovery paths.
+- **Make systems observable:** logs, health checks, meaningful error reporting.
+- **Automate repeatable work:** reduce manual changes and produce auditable results.
+- **Keep learning:** read source, reproduce bugs, test changes, welcome review.
+
+</details>
 
 ---
-<div align="center"><b>Build carefully. Test the edge cases. Keep improving.</b></div>
+
+<div align="center">
+
+**Build carefully. Test edge cases. Keep improving.**
+
+<sub>Confidential endpoints, internal network details, credentials, employee data, and proprietary source code are intentionally omitted.</sub>
+
+</div>
